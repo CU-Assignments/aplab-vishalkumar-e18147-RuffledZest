@@ -2,11 +2,23 @@
 # Assignment2-APLAB-VISHALKUMAR-E18147 
 # Attache screenshot for each solution
 1763.[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/)<br>
+![image](https://github.com/user-attachments/assets/627c2c37-fc1e-4c2a-b308-f69c8e88e203)
+
 190.[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)<br>
+![image](https://github.com/user-attachments/assets/34892efc-4980-4982-9504-6fa02f5ca63c)
+
 191.[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)<br>
+![image](https://github.com/user-attachments/assets/17beaa6c-cffc-47ea-815a-e734eb2f184c)
+
 53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)<br>
-240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)<br>
+![image](https://github.com/user-attachments/assets/7143297e-bfb1-4f69-bcb5-781934bd38ec)
+
+240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+<br>
+![image](https://github.com/user-attachments/assets/0685145d-05e0-41cb-ba56-b4b8510079fb)
+
 372.[Super Pow](https://leetcode.com/problems/super-pow/description/)<br>
+![image](https://github.com/user-attachments/assets/a9a26984-bf70-4657-b0b0-404485375d37)
 932.[Beautiful Array](https://leetcode.com/problems/beautiful-array/description/)<br>
 218.[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)<br>
 493.[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)<br>
